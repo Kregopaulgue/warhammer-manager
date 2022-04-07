@@ -1,1 +1,1 @@
-# warhammer_manager
+# warhammer-manager
